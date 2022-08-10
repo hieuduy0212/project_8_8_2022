@@ -1,0 +1,3 @@
+ ID    Tên máy        Màu       Kiểu        Giá
+  1       dell      trang         pc      100.0
+  2         hp        den        den      200.0
